@@ -1,0 +1,15 @@
+ApplicationTestSuite.class
+com\goldenbike\model\domain\BikeTest.class
+com\goldenbike\model\domain\ReservationTimesTest.class
+com\goldenbike\model\services\factory\ServiceFactoryTest.class
+com\goldenbike\model\domain\AllTestsDomain.class
+com\goldenbike\model\domain\CustomerNameTest.class
+com\goldenbike\model\services\reservationservice\ReservationSvcImplTest.class
+com\goldenbike\model\domain\ReservationTest.class
+com\goldenbike\model\business\manager\ReservationManagerTest.class
+com\goldenbike\model\business\manager\BikeManagerTest.class
+com\bikeshop\bike_shop\AppTest.class
+com\goldenbike\model\domain\CustomerTest.class
+com\goldenbike\model\services\bikeservice\BikeSvcImplTest.class
+com\goldenbike\model\business\AllTestsBusiness.class
+com\goldenbike\model\services\AllTestsServices.class
